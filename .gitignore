@@ -3,3 +3,4 @@
 /IMDBReview.code-workspace
 /model
 /movie_review_sentiment_model
+/movie_review_sentiment_model_onnx
